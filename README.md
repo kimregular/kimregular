@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=regular_kim)](https://solved.ac/regular_kim)
 
 <div align="center">
     
@@ -13,8 +14,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimregular&theme=dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=regular_kim)](https://solved.ac/regular_kim)
 </div>
 
 
