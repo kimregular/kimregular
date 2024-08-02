@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimregular&show_icons=true&theme=github-compact&hide_border=true&bg_color=00ff0000&icon_color=26A641&text_color=8B949E&title_color=8B949E&count_private=true" width=59% />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimregular&show_icons=true&theme=github-compact&hide_border=true&bg_color=00ff0000&icon_color=26A641&ring_color=26A641&text_color=8B949E&title_color=8B949E&count_private=true" width=59% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
