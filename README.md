@@ -10,6 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimregular&show_icons=true&theme=github-compact&hide_border=true&bg_color=00ff0000&icon_color=26A641&ring_color=26A641&text_color=8B949E&title_color=8B949E&count_private=true" width=59% />
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimregular&theme=github-compact&hide_border=true&days=35"/>
 </a>
