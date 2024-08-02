@@ -1,5 +1,4 @@
-## Hi there 👋 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=regular_kim)](https://solved.ac/regular_kim)
+## Hi there 👋 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=regular_kim)](https://solved.ac/regular_kim)
 
 <div align="center">
     
